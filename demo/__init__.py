@@ -1,0 +1,1 @@
+"""Documentazione della versione portfolio."""
